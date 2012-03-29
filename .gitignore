@@ -1,0 +1,5 @@
+logs
+mnesia
+plugins
+*.pid
+
