@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "name": "rabbitmq-federation-example",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.6"
+  },
+  "dependencies": {
+    "amqp":"0.1.2"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
